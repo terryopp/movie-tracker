@@ -22,3 +22,9 @@ body {
     max-height: 100%;
     max-width: 100%;
 }
+
+.input {
+    border-radius: 15px;
+    padding: 5px;
+    border: 1px dashed rgba(0, 192, 0, 0.342)
+}
